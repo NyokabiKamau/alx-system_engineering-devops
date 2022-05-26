@@ -1,2 +1,2 @@
 #!/bin/bash
-file school
+file -f school -m schooL.mgc -P SCHOOL=0 file ...
