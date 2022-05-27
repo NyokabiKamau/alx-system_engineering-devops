@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -AX /* .* ,* \n 
+ls -mapv  
