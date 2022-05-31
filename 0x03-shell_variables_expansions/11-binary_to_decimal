@@ -1,0 +1,2 @@
+#!/bin/bash
+set -a BINARY | printf "%10f\n" 
